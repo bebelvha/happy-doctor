@@ -16,7 +16,7 @@
   Demonstração do layout desenvolvido no estudo.
 </h4>
 
-<a href=<a href="https://imgur.com/cN7AlNT"><img src="https://i.imgur.com/cN7AlNT.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/cN7AlNT"><img src="https://i.imgur.com/cN7AlNT.jpg" title="source: imgur.com" /></a>
 
 ## :rocket: Tecnologias
 
